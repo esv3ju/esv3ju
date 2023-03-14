@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a student in my second year, I hope to have fun coding with you.
+
 <!--
 **esv3ju/esv3ju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
